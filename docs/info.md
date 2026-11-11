@@ -9,11 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Convierte de BCD a 7 segmentos
 
 ## How to test
-
-Explain how to use your project
+Ingresa un número con el dip-switch y lo muestra en un 7 segmentos
 
 ## External hardware
 
